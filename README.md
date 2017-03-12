@@ -2,10 +2,10 @@
 Links and info on any talk I give.
 
 #IoT Fácil y barato
-Event: Open Saturday Santiago I
-Location: UAPA, Santiago, R.D.
-Date: Oct 15th 2016
-PPT: https://drive.google.com/open?id=1Xp3eVW5NsmgwbOReKcAopPF0R0EzZE85Nxsf97Amz8g
+####Event: Open Saturday Santiago I
+####Location: UAPA, Santiago, R.D.
+####Date: Oct 15th 2016
+####PPT: https://drive.google.com/open?id=1Xp3eVW5NsmgwbOReKcAopPF0R0EzZE85Nxsf97Amz8g
 
 
 #IoT From Scratch
