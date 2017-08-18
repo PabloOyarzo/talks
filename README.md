@@ -26,4 +26,11 @@ Links and info on any talk I give.
 #### Event:    Python Dominicana 066: Lightning Talks
 #### Location: Pixel Perfect Tree, Distrito Nacional, R.D.
 #### Date:     Apr 27th 2017
-#### PPT:      https://docs.google.com/presentation/d/1eLe-6qjEBBzojaBAe-2rUYDiuudLZuRlBsAWnQGQ3wU/edit?usp=sharing
+#### PPT:      https://drive.google.com/open?id=1eLe-6qjEBBzojaBAe-2rUYDiuudLZuRlBsAWnQGQ3wU
+
+
+## Licenses on Hardware
+#### Event:    DHC's Eureka 001
+#### Location: Salón de videoconferencias, Intec, Distrito Nacional, R.D.
+#### Date:     Aug 17th 2017
+#### PPT:      https://drive.google.com/open?id=19xJ0qh_vaZJgVtygiVe4R4o_BdkqJdIMtnkXul9zZPE
