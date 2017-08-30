@@ -37,6 +37,6 @@ Links and info on any talk I give.
 
 ## High Level Software, Low Level Hardware: The Beauty of MicroPython
 #### Event:    Python Dominicana 067: The Beauty of MicroPython
-#### Location: Antiguo Pixel Perfect, GFR Media Group, Distrito Nacional, R.D.
+#### Location: Antiguo Pixel Perfect Tree, GFR Media Group, Distrito Nacional, R.D.
 #### Date:     Aug 29th 2017
 #### PPT:      https://drive.google.com/open?id=1aGQ-cPI06nJD8mIA9N9ATr5fbCr2SGadUDbiU6lTyGc
