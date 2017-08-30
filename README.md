@@ -34,3 +34,9 @@ Links and info on any talk I give.
 #### Location: Salón de videoconferencias, Intec, Distrito Nacional, R.D.
 #### Date:     Aug 17th 2017
 #### PPT:      https://drive.google.com/open?id=19xJ0qh_vaZJgVtygiVe4R4o_BdkqJdIMtnkXul9zZPE
+
+## High Level Software, Low Level Hardware: The Beauty of MicroPython
+#### Event:    Python Dominicana 067: The Beauty of MicroPython
+#### Location: Antiguo Pixel Perfect, GFR Media Group, Distrito Nacional, R.D.
+#### Date:     Aug 29th 2017
+#### PPT:      https://drive.google.com/open?id=1aGQ-cPI06nJD8mIA9N9ATr5fbCr2SGadUDbiU6lTyGc
