@@ -46,3 +46,9 @@ Links and info on any talk I give.
 #### Location: Salón de videoconferencias, Intec, Distrito Nacional, R.D.
 #### Date:     Oct 13th 2017
 #### PPT:      https://drive.google.com/open?id=1DEg8TC332fg7en2favl6U74cwwXqIVzthXgdzKOQYnA
+
+## A Take On Microcontrollers
+#### Event:    JODOROBOT: Arduino Day
+#### Location: Salón de actos, Colegio Evangelico Sinaí, La Romana, R.D.
+#### Date:     May 12th 2018
+#### PPT:      https://drive.google.com/open?id=1kQSjBX6KrAp29BZ2GXl-vs3UbvRFfLzq0WQ2jQpRUiw
