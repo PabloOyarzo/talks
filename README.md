@@ -52,3 +52,9 @@ Links and info on any talk I give.
 #### Location: Salón de actos, Colegio Evangelico Sinaí, La Romana, R.D.
 #### Date:     May 12th 2018
 #### PPT:      https://drive.google.com/open?id=1kQSjBX6KrAp29BZ2GXl-vs3UbvRFfLzq0WQ2jQpRUiw
+
+## 3D Printing
+#### Event:    DHC's Eureka 002
+#### Location: Salón de videoconferencias, Intec, Distrito Nacional, R.D.
+#### Date:     May 25th 2018
+#### PPT:      https://docs.google.com/presentation/d/1w4JUEMVQAoSbKMBGdqWIwPnpIAmUegdNCZvdP_BjK40/
