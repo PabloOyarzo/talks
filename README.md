@@ -57,4 +57,4 @@ Links and info on any talk I give.
 #### Event:    DHC's Eureka 002
 #### Location: Salón de videoconferencias, Intec, Distrito Nacional, R.D.
 #### Date:     May 25th 2018
-#### PPT:      https://docs.google.com/presentation/d/1w4JUEMVQAoSbKMBGdqWIwPnpIAmUegdNCZvdP_BjK40/
+#### PPT:      https://drive.google.com/open?id=1w4JUEMVQAoSbKMBGdqWIwPnpIAmUegdNCZvdP_BjK40
