@@ -58,3 +58,9 @@ Links and info on any talk I give.
 #### Location: Salón de videoconferencias, Intec, Distrito Nacional, R.D.
 #### Date:     May 25th 2018
 #### PPT:      https://drive.google.com/open?id=1w4JUEMVQAoSbKMBGdqWIwPnpIAmUegdNCZvdP_BjK40
+
+## Microrobotics: A Research Job
+#### Event:    JODOROBOT: Arduino Day
+#### Location: Univesidad OyM, La Romana, R.D.
+#### Date:     Mar 16th 2018
+#### PPT:      https://drive.google.com/open?id=1G1jQCHvpCZ0fKNY-I3JzLQpJpFVMcbOEI3rQj5p3ui8
