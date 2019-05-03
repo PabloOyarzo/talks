@@ -62,5 +62,5 @@ Links and info on any talk I give.
 ## Microrobotics: A Research Job
 #### Event:    JODOROBOT: Arduino Day
 #### Location: Univesidad OyM, La Romana, R.D.
-#### Date:     Mar 16th 2018
+#### Date:     Mar 16th 2019
 #### PPT:      https://drive.google.com/open?id=1G1jQCHvpCZ0fKNY-I3JzLQpJpFVMcbOEI3rQj5p3ui8
