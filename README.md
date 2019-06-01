@@ -64,7 +64,7 @@ Links and info on any talk I give.
 #### Date:     Mar 16th 2019
 #### PPT:      https://drive.google.com/open?id=1G1jQCHvpCZ0fKNY-I3JzLQpJpFVMcbOEI3rQj5p3ui8
 
-## Computer Vision on Embbeded Devices
+## Computer Vision on Embedded Devices
 #### Event:    CodeCampSDQ 2019
 #### Location: Salón de Seguridad Social, Intec, Distrito Nacional, R.D.
 #### Date:     Jun 1st 2019
