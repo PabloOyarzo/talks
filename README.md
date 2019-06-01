@@ -28,7 +28,6 @@ Links and info on any talk I give.
 #### Date:     Apr 27th 2017
 #### PPT:      https://drive.google.com/open?id=1eLe-6qjEBBzojaBAe-2rUYDiuudLZuRlBsAWnQGQ3wU
 
-
 ## Licenses on Hardware
 #### Event:    DHC's Eureka 001
 #### Location: Salón de videoconferencias, Intec, Distrito Nacional, R.D.
@@ -64,3 +63,9 @@ Links and info on any talk I give.
 #### Location: Univesidad OyM, La Romana, R.D.
 #### Date:     Mar 16th 2019
 #### PPT:      https://drive.google.com/open?id=1G1jQCHvpCZ0fKNY-I3JzLQpJpFVMcbOEI3rQj5p3ui8
+
+## Computer Vision on Embbeded Devices
+#### Event:    CodeCampSDQ 2019
+#### Location: Salón de Seguridad Social, Intec, Distrito Nacional, R.D.
+#### Date:     Jun 1st 2019
+#### PPT:      https://drive.google.com/open?id=11QZ_PN4zH8_gCD92vGSSIX_K9kkdOC9Ah0-yIHLSyoA
