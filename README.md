@@ -69,3 +69,9 @@ Links and info on any talk I give.
 #### Location: Salón de Seguridad Social, Intec, Distrito Nacional, R.D.
 #### Date:     Jun 1st 2019
 #### PPT:      https://drive.google.com/open?id=11QZ_PN4zH8_gCD92vGSSIX_K9kkdOC9Ah0-yIHLSyoA
+
+## Demystifying Hardware for Game Developers
+#### Event:    Game Developer Day 2019
+#### Location: Salón de Seguridad Social, Intec, Distrito Nacional, R.D.
+#### Date:     Jul 20th 2019
+#### PPT:      https://drive.google.com/open?id=14Nq_VsvZaZzsCnqgTpig9zRVD7vGqGZI-3Zr7NM0D9I
