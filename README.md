@@ -1,6 +1,13 @@
 # talks
 Links and info on any talk I give.
 
+## Challenges Generator: IoT+ ChatGPT
+#### Event:    Open Saturday AI Edition
+#### Location: Alianza Juvenil, La Romana, R.D.
+#### Date:     Apr 15th 2023
+#### PPT:      https://docs.google.com/presentation/d/12zUPiySgCjytYx5nETUXmhwQ0x2EY0nI5SmsnfXKxGs/edit?usp=sharing
+#### Video:    https://www.youtube.com/live/9X5I3w-Iqls
+
 ## Nanopb - Protocol Buffers para Embedded Systems
 #### Event:    GDG DevFest Santo Domingo 2022
 #### Location: APEC, Distrito Nacional, R.D.
