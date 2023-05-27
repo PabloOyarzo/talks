@@ -6,7 +6,7 @@ Links and info on any talk I give.
 #### Location: Alianza Juvenil, La Romana, R.D.
 #### Date:     Apr 15th 2023
 #### PPT:      https://docs.google.com/presentation/d/12zUPiySgCjytYx5nETUXmhwQ0x2EY0nI5SmsnfXKxGs/edit?usp=sharing
-#### Video:    https://www.youtube.com/live/9X5I3w-Iqls
+#### Video:    [https://www.youtube.com/live/9X5I3w-Iqls](https://www.youtube.com/live/vEx3QW-Nis4?feature=share&t=4538)
 
 ## Nanopb - Protocol Buffers para Embedded Systems
 #### Event:    GDG DevFest Santo Domingo 2022
