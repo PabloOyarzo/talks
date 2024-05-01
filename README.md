@@ -25,28 +25,28 @@ Links and info about my talks.
 #### Location: APEC, Distrito Nacional, R.D.
 #### Date:     Oct 14th 2022
 #### PPT:      https://docs.google.com/presentation/d/1O61VQRDBRJ1qgovWclPJaoLh3uHLreigaZdZWmWjHgE/
-#### Video:    https://www.youtube.com/watch?v=Fy_FAcs3GRk
+#### Video:    [Youtube](https://www.youtube.com/watch?v=Fy_FAcs3GRk)
 
 ## Rust on Microcontrollers
 #### Event:    CodeCampSDQ 2022
 #### Location: Salón de Seguridad Social, INTEC, Distrito Nacional, R.D.
 #### Date:     Jul 30th 2022
 #### PPT:      https://docs.google.com/presentation/d/16APb1yNbiA-UIfQQI7-qTQ9bxqXtF3EH/
-#### Video:    https://www.youtube.com/watch?v=MQ42sXEmV40
+#### Video:    [Youtube](https://www.youtube.com/watch?v=MQ42sXEmV40)
 
 ## Demystifying Hardware for Game Developers
 #### Event:    Game Developer Day 2019
 #### Location: Salón de Seguridad Social, Intec, Distrito Nacional, R.D.
 #### Date:     Jul 20th 2019
 #### PPT:      https://drive.google.com/open?id=14Nq_VsvZaZzsCnqgTpig9zRVD7vGqGZI-3Zr7NM0D9I
-#### Video:    https://www.youtube.com/watch?v=ZTJEH3kB2EM
+#### Video:    [Youtube](https://www.youtube.com/watch?v=ZTJEH3kB2EM)
 
 ## Computer Vision on Embedded Devices
 #### Event:    CodeCampSDQ 2019
 #### Location: Salón de Seguridad Social, Intec, Distrito Nacional, R.D.
 #### Date:     Jun 1st 2019
 #### PPT:      https://drive.google.com/open?id=11QZ_PN4zH8_gCD92vGSSIX_K9kkdOC9Ah0-yIHLSyoA
-#### Video:    https://www.youtube.com/watch?v=fC3RZ7FMSNA
+#### Video:    [Youtube](https://www.youtube.com/watch?v=fC3RZ7FMSNA)
 
 ## Microrobotics: A Research Job
 #### Event:    JODOROBOT: Arduino Day
