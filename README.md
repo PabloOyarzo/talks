@@ -1,12 +1,24 @@
 # talks
-Links and info on any talk I give.
+Links and info about my talks.
+
+## Linux on Embedded Systems
+#### Event:    Linux Dominicana Webinar Marzo
+#### Date:     Apr 25th 2024
+#### PPT:      https://docs.google.com/presentation/d/17CcZLE7CD-CLQFO5sORIO7PzY0DGWwPP7Z-cuh7dxNs/edit?usp=sharing
+#### Video:    [Youtube](https://www.youtube.com/watch?v=7iA9T_GkefM)
+
+## Welcome - State of DHC
+#### Event:    DHC's: Arduino Day 2024
+#### Location: INTEC, Distrito Nacional, R.D.
+#### Date:     Mar 23th 2024
+#### PPT:      https://docs.google.com/presentation/d/15ZRqBZnqRkmEutsxmGhiQjxn-AiITbu92j2Xrws6mFA/edit?usp=sharing
 
 ## Challenges Generator: IoT+ ChatGPT
 #### Event:    Open Saturday AI Edition
 #### Location: Alianza Juvenil, La Romana, R.D.
 #### Date:     Apr 15th 2023
 #### PPT:      https://docs.google.com/presentation/d/12zUPiySgCjytYx5nETUXmhwQ0x2EY0nI5SmsnfXKxGs/edit?usp=sharing
-#### Video:    [https://www.youtube.com/live/9X5I3w-Iqls](https://www.youtube.com/live/vEx3QW-Nis4?feature=share&t=4538)
+#### Video:    [Youtube](https://www.youtube.com/live/vEx3QW-Nis4?feature=share&t=4538)
 
 ## Nanopb - Protocol Buffers para Embedded Systems
 #### Event:    GDG DevFest Santo Domingo 2022
